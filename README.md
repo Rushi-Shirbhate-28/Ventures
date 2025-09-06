@@ -47,6 +47,4 @@ Team Ventures is a student-led engineering club focused on electric vehicle tech
 
 <br />
 
-<div align="center">
-  <p>Built with ⚡ by Tejas Mahajan</p>
-</div>
+
